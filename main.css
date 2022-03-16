@@ -60,3 +60,10 @@ li:hover {
   border-radius: 3px;
 
 }
+
+/*  MY STYLES  */
+
+img {
+   max-width: 175px;
+   height: 125px;
+}
